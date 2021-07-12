@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SocialMirror</string>
+    <string name="facebook_app_id">283327263570262</string>
+    <string name="fb_login_protocol_scheme">fb283327263570262</string>
+
+</resources>
